@@ -1,0 +1,10 @@
+LP concert,I don't know ,20/05/2021,1007,https://www.events.ro/event/lp-aduce-cea-mai-cool-petrecere-a-verii-pe-10-iulie-la-arenele-romane/
+Eematico,Activitati pentru copii,23/07/2021,70,https://www.zilesinopti.ro/locuri/11311/eematico
+Star Wars,SF Movie,10/05/2021,310,https://www.zilesinopti.ro/locuri/7077/cine-globe
+Moroi,Digital Theatre,10/06/2021,500,https://www.zilesinopti.ro/evenimente/54834/moroi-scena-digitala-tnrs
+Autobahn,Digital Theatre,11/06/2021,642,https://www.zilesinopti.ro/evenimente/54836/autobahn-scena-digitala-tnrs
+Fragment.Experinta restaurarii,Exhibition,11/03/2022,100,https://www.zilesinopti.ro/evenimente/55300/fragment-experienta-restaurarii
+Mozartinno,Workshop,23/07/2021,250,https://www.zilesinopti.ro/locuri/11168/mozartinno
+Art exhibition,Digital art,12/03/2022,400,https://www.zilesinopti.ro/locuri/303/115-galerie-de-arta-digitala
+418 Contemporary Art Gallery,Interesting,13/02/2021,59,https://www.zilesinopti.ro/locuri/304/418-contemporary-art-gallery
+Aiuart,Contemporary art,27/11/2021,200,https://www.zilesinopti.ro/locuri/4444/aiurart
